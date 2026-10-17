@@ -1,0 +1,4 @@
+App Name: Biocade
+Website: https://biocade.ir
+Platform: Android
+Technology: Java WebView
